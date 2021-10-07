@@ -2,7 +2,7 @@
 - 👀 I’m interested in Angular and Nodejs with express
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://twitter.com/home 
 
 <!---
 pmuhire/pmuhire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
