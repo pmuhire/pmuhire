@@ -17,9 +17,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=pmuhire&style=flat-square&color=blue" alt=""/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -31,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhire-patrick-061060201/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Muhire-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhire-patrick-061060201/)
 
 ---
 
