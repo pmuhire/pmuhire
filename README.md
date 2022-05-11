@@ -54,6 +54,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Blog Posts :
-<a href="https://docs.google.com/document/d/1XlI7bxduOH798_4qJKJMGta1fFhwzBxv3bjbbUkOwDw/edit?usp=sharing">What is an API and how does it work</a>
+### <a href="https://docs.google.com/document/d/1XlI7bxduOH798_4qJKJMGta1fFhwzBxv3bjbbUkOwDw/edit?usp=sharing">What is an API and how does it work</a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
