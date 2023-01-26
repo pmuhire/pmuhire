@@ -54,6 +54,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Blog Posts :
-### <a href="[https://pmuhire.hashnode.dev/]()">What is an API and how does it work</a>
+### <a href="[https://pmuhire.hashnode.dev/]()">Hashnode blogs</a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
