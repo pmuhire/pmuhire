@@ -1,3 +1,4 @@
+---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
@@ -14,11 +15,13 @@
 ---
 
 ### About Me
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Rwanda.
-- 🔭 I’m working as a Software Engineer and contributing to both frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Muhire-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhire-patrick-061060201/)
+I am a passionate and innovative software engineer specializing in full-stack and mobile app development, with a keen interest in AI. My expertise lies in designing responsive front-end interfaces, building robust back-end architectures, and developing high-performance mobile applications for both Android and iOS platforms. I leverage modern frameworks and technologies to create seamless, scalable, and secure applications that deliver exceptional user experiences.
+
+While my primary focus is on full-stack and mobile development, I am also actively exploring AI, learning from existing models, and experimenting with their applications to enhance software functionality and user interaction.
+
+Collaboration, agile project management, and continuous learning are integral to my professional approach. I thrive in dynamic environments, working with cross-functional teams to bring innovative ideas to life.
+
+Let's connect and explore how we can drive technological advancements together.
 
 ---
 
@@ -27,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -46,7 +49,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### Blog Posts
-### <a href="https://pmuhire.hashnode.dev/">Hashnode blogs</a>
+#### <a href="https://pmuhire.hashnode.dev/">Hashnode blogs</a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
