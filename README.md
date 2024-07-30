@@ -55,6 +55,6 @@ Let's connect and explore how we can drive technological advancements together.
 
 ---
 
-You can reach me through my portfolio: [My Portfolio](https://my-brand-zeta.vercel.app)
+You can reach me through my portfolio: [My Portfolio](https://muhire-patrick.vercel.app/)
 
 ---
